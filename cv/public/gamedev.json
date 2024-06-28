@@ -1,0 +1,29 @@
+[
+    {
+        "title": "Color Wizard",
+        "description": "A very blind wizard",
+        "highlights": [
+            "aaaaa",
+            "uuuuu",
+            "pretty :)"
+        ],
+        "technologies": [
+            "Unity"
+        ],
+        "thumbnail": "",
+        "url": "https://astronautpotato.itch.io/color-wizard"
+    },
+    {
+        "title": "Catastrophia",
+        "description": "Cats vs robots",
+        "highlights": [
+            "aaaaa",
+            "cats"
+        ],
+        "technologies": [
+            "Unity"
+        ],
+        "thumbnail": "",
+        "url": "https://astronautpotato.itch.io/patient73-catastrophia"
+    }
+]

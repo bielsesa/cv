@@ -1,0 +1,34 @@
+[
+    {
+        "role": "Backend and WPF developer",
+        "company": "ERNI",
+        "from": "Mar-2023",
+        "to": "present",
+        "description": "blablabla",
+        "highlights": [
+            "blehbluh",
+            "blobloululu"
+        ],
+        "technologies": [
+            "c#",
+            "wpf",
+            ".NET Framework"
+        ]
+    },
+    {
+        "role": "Backend and VB6 developer",
+        "company": "DIR Informatica BCN",
+        "from": "Mar-2021",
+        "to": "Mar-2023",
+        "description": "blablabla",
+        "highlights": [
+            "blehbluh",
+            "blobloululu"
+        ],
+        "technologies": [
+            "c#",
+            ".NET Core 6",
+            "VB6"
+        ]
+    }
+]

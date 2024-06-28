@@ -1,0 +1,29 @@
+[
+    {
+        "title": "High certificate degree on multi-platform app development",
+        "center": "Escola Jesuites el Clot",
+        "from": "Sep-2017",
+        "to": "Jun-2020",
+        "description": "greeeat",
+        "technologies": [
+            "android",
+            "react native",
+            "unity"
+        ]
+    },
+    {
+        "title": "High certificate degree on web app development",
+        "center": "Escola Jesuites el Clot",
+        "from": "Sep-2017",
+        "to": "Jun-2020",
+        "description": "niceee",
+        "technologies": [
+            "spring boot",
+            "node",
+            "express js",
+            "php",
+            "graphql",
+            "noSQL"
+        ]
+    }
+]
