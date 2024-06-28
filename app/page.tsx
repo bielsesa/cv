@@ -5,17 +5,17 @@ export default function Home() {
   return (
     <main className="flex flex-col gap-y-4 bg-bg min-h-screen p-10">
       <div id="header">
-        <p className="text-orange font-light text-4xl">Biel Serrano</p>
-        <p className="text-blue-dark italic font-light text-lg">Backend developer based in Barcelona (ES)</p>
+        <p className="text-pink font-light text-4xl">Biel Serrano</p>
+        <p className="text-lavender italic font-light text-lg">Backend developer based in Barcelona (ES)</p>
         <p className="text-normal text-xl">
           <a className="hover:underline" href="mailto:bielsesa@gmail.com">Email</a> / <a className="hover:underline" href="www.linkedin.com/in/biel-serrano-sánchez-13ba05170">LinkedIn</a> / <a className="hover:underline" href="https://github.com/bielsesa">GitHub</a> / <a className="hover:underline" href="https://astronautpotato.itch.io/">itch.io</a></p>
       </div>
     <Experience />
       <div id="gamedev">
-        <h1 className="text-orange-dark text-xl">Game development projects</h1>
+        <h1 className="text-orange text-xl">Game development projects</h1>
       </div>
       <div id="studies">
-        <h1 className="text-orange-dark text-xl">Studies</h1>
+        <h1 className="text-orange text-xl">Studies</h1>
       </div>
     </main>
   );

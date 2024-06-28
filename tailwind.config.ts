@@ -8,14 +8,13 @@ const config: Config = {
   ],
   theme: {
     colors: {
-      "bg": "#ffffff",
-      "bg-sidemenu": "#e8e8e8",
-      "bg-all": "#d9d9d9",
-      "orange": "#ff793f",
-      "orange-dark": "#cd6133",
-      "blue": "#34ace0",
-      "blue-dark": "#227093",
-      "normal": "#353535"
+      "bg": "#282a36",
+      "pink": "#fd79c5",
+      "lavender": "#bd94f7",
+      "mint": "#57fa7f",
+      "orange": "#feb771",
+      "skyblue": "#8ee9fc",
+      "normal": "#ffffff"
     },
   },
   plugins: [],

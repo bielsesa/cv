@@ -1,33 +1,37 @@
 [
     {
-        "role": "Backend and WPF developer",
+        "key": 0,
+        "role": ".NET Backend and WPF developer",
         "company": "ERNI",
         "from": "Mar-2023",
         "to": "present",
-        "description": "blablabla",
+        "description": "Product care and improvement of medical software with one of the largest international health companies.",
         "highlights": [
-            "blehbluh",
-            "blobloululu"
+            "First experience working with a big team."
         ],
         "technologies": [
-            "c#",
-            "wpf",
-            ".NET Framework"
+            "C#",
+            "RabbitMQ",
+            "WPF",
+            ".NET Framework 4.8"
         ]
     },
     {
-        "role": "Backend and VB6 developer",
+        "key": 1,
+        "role": ".NET Backend and VB6 developer",
         "company": "DIR Informatica BCN",
         "from": "Mar-2021",
         "to": "Mar-2023",
-        "description": "blablabla",
+        "description": "Product care and migration of one of the leading ERPs specialized for the bakery sector in Spain.",
         "highlights": [
-            "blehbluh",
-            "blobloululu"
+            "My first experience programming on a big project.",
+            "Along the way, the team integrated Agile, and was able to learn a lot from it."
         ],
         "technologies": [
-            "c#",
+            "C#",
+            "ASP.NET",
             ".NET Core 6",
+            "SQL Server",
             "VB6"
         ]
     }
