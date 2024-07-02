@@ -1,6 +1,5 @@
 import { promises as fs } from 'fs';
 import ExperienceItem from './experience-item';
-import { ExperienceData } from './experience-item';
 
 export default async function Experience() {
     const file = await fs.readFile(process.cwd() + '/public/experience.json', 'utf8');
@@ -24,7 +23,7 @@ export default async function Experience() {
     return (
         <div id="experience">
             <h1 className="text-orange text-xl">Experience</h1>
-            <div>
+            <div className='flex flex-col'>
                 {data}
             </div>
         </div>

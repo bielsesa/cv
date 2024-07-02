@@ -1,29 +1,67 @@
 [
     {
-        "title": "Color Wizard",
-        "description": "A very blind wizard",
+        "title": "The Color Wizard",
+        "description": "A wizard with a very high nearsight prescription loses their glasses... they can't find their way, but maybe you could help?",
+        "genre": "2D Puzzle",
         "highlights": [
-            "aaaaa",
-            "uuuuu",
-            "pretty :)"
+            "Made for the 'Mini game a month' game jam from May 2024, where you need to create a short but sweet game in one month.",
+            "The theme for this game jam was 'Wizard', and we wanted to create a story of a wizard that uses colors as their spells.",
+            "The game is set only in one screen, and the camera does not move. The player can see the whole map at all times.",
+            "Really pretty artwork, created by @wydes17 on instagram!"
         ],
         "technologies": [
-            "Unity"
+            "Unity",
+            "C#",
+            "WebGL"
         ],
-        "thumbnail": "",
+        "thumbnail": "colorwizard.png",
         "url": "https://astronautpotato.itch.io/color-wizard"
     },
     {
         "title": "Catastrophia",
-        "description": "Cats vs robots",
+        "description": "You're a cat in the midst of a robot-alien invasion. Survive and collect food!",
+        "genre": "3D Survival Adventure",
         "highlights": [
-            "aaaaa",
-            "cats"
+            "Winners of the Patient73 2024 Game Jam.",
+            "One of the objectives of the development of this game was to showcase how the use of AI can help in the creation of games and concepts.",
+            "The second objective was to give visibility to rare diseases, and make a fun game kids with rare diseases can enjoy while in the hospitals. This is why WebGL was a must."
         ],
         "technologies": [
-            "Unity"
+            "Unity",
+            "C#",
+            "WebGL"
         ],
-        "thumbnail": "",
+        "thumbnail": "catastrophia.png",
         "url": "https://astronautpotato.itch.io/patient73-catastrophia"
+    },
+    {
+        "title": "Demo: Shooter 2D",
+        "description": "Short demo of a 2D shooter.",
+        "genre": "2D Shooter",
+        "highlights": [
+            "Made for a course project, in which we had to think of mechanics for ourselves, apart from implementing some given to us.",
+            "Mechanics implemented: A key-door system, enemy 'horde' spawning, shooting, double jump and 'bouncy' platforms.",
+            "The project was also created to practice simple animation."
+        ],
+        "technologies": [
+            "Unity",
+            "C#",
+            "WebGL"
+        ],
+        "thumbnail": "shooter2d.png",
+        "url": "https://astronautpotato.itch.io/shooter-2d-demo"
+    },
+    {
+        "title": "Demo: Medical Showdown",
+        "description": "My final project for the Higher Certificate. Small platformer game made in HTML Superpowers, an HTML game framework.",
+        "highlights": [
+            "My first taste of 'gamedev'. It's very buggy, but I was proud of being able to finish it!",
+            "Had also only around 1 month to create it, in the middle of 2020."
+        ],
+        "technologies": [
+            "HTML5 Superpowers"
+        ],
+        "thumbnail": "medicalshowdown.png",
+        "url": "https://astronautpotato.itch.io/medical-showdown"
     }
 ]

@@ -3,11 +3,12 @@
         "key": 0,
         "role": ".NET Backend and WPF developer",
         "company": "ERNI",
-        "from": "Mar-2023",
+        "from": "Mar 2023",
         "to": "present",
-        "description": "Product care and improvement of medical software with one of the largest international health companies.",
+        "description": "Product care and improvement of medical software with one of the largest international medtech companies.",
         "highlights": [
-            "First experience working with a big team."
+            "My first experience on the MedTech sector, it had been my dream to work on a project like this for a long time.",
+            "Agile methodologies with a big team."
         ],
         "technologies": [
             "C#",
@@ -20,19 +21,40 @@
         "key": 1,
         "role": ".NET Backend and VB6 developer",
         "company": "DIR Informatica BCN",
-        "from": "Mar-2021",
-        "to": "Mar-2023",
+        "from": "Mar 2021",
+        "to": "Mar 2023",
         "description": "Product care and migration of one of the leading ERPs specialized for the bakery sector in Spain.",
         "highlights": [
             "My first experience programming on a big project.",
-            "Along the way, the team integrated Agile, and was able to learn a lot from it."
+            "Participated actively in the design and improvement of the product, which let me learn a lot about analysing client needs."
         ],
         "technologies": [
             "C#",
             "ASP.NET",
+            ".NET Framework 4.8",
             ".NET Core 6",
             "SQL Server",
             "VB6"
+        ]
+    },
+    {
+        "key": 1,
+        "role": "Software Developer",
+        "company": "STEP LOGISTICA S.L.",
+        "from": "Feb 2019",
+        "to": "Jun 2020",
+        "description": "My first job as a junior developer. Created small PoCs to cover needs the company wanted to address, such as:",
+        "highlights": [
+            "A digital employee clock-in system, developed in WPF for a touch-screen and included RFID card reading.",
+            "A CLI application that read from a spanish API that serves information about electricity prices through the day, which then feeded an internal system."
+        ],
+        "technologies": [
+            "C#",
+            ".NET Framework 4.8",
+            "WPF",
+            "WinForms",
+            "RabbitMQ",
+            "RFID"
         ]
     }
 ]
