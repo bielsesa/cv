@@ -1,3 +1,4 @@
+import { prefix } from "@/utils/prefix";
 import Image from "next/image";
 
 export default function GamedevItem(data: GamedevData) { 
@@ -20,7 +21,7 @@ export default function GamedevItem(data: GamedevData) {
                     <a href={data.url}><button className="button">Play it here!</button></a>                
                 </div>
                 <Image
-                src={`/images/${data.thumbnail}`}
+                src={`${prefix}/images/${data.thumbnail}`}
                 width={315}
                 height={250}
                 alt={`The thumbnail for ${data.title}`}
