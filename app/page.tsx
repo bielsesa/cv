@@ -1,10 +1,10 @@
-import Image from "next/image";
+import Studies from "@/components/studies";
 import Experience from "../components/experience";
 import Gamedev from "../components/gamedev";
 
 export default function Home() {
   return (
-    <main className="flex flex-col gap-y-4 bg-bg min-h-screen p-10">
+    <main className="flex justify-center flex-col gap-y-4 bg-bg p-10">
       <div id="header">
         <p className="text-pink font-light text-4xl">Biel Serrano</p>
         <p className="text-lavender italic font-light text-lg">Backend developer based in Barcelona (ES)</p>
@@ -13,9 +13,7 @@ export default function Home() {
       </div>
       <Experience />
       <Gamedev />
-      <div id="studies">
-        <h1 className="text-orange text-xl">Studies</h1>
-      </div>
+      <Studies />
     </main>
   );
 }

@@ -4,11 +4,27 @@
         "center": "Escola Jesuites el Clot",
         "from": "Sep-2017",
         "to": "Jun-2020",
-        "description": "greeeat",
+        "description": "Development of applications (desktop, mobile). Specialization on Big Data and Internet of Things.",
         "technologies": [
-            "android",
-            "react native",
-            "unity"
+            "Java 8 y 11",
+            "Android",
+            "C#",
+            "Unit Testing",
+            "JUnit",
+            "Python",
+            "Qt",
+            "C / C++",
+            "Hadoop",
+            "Spark",
+            "MySQL",
+            "Arduino, Raspberry Pi",
+            "MQTT",
+            "Node-RED",
+            "Grafana",
+            "LoraWAN",
+            "React Native",
+            "Unity",
+            "SQL"
         ]
     },
     {
@@ -16,14 +32,24 @@
         "center": "Escola Jesuites el Clot",
         "from": "Sep-2017",
         "to": "Jun-2020",
-        "description": "niceee",
+        "description": "Development of web applications (frontend and backend) ",
         "technologies": [
-            "spring boot",
-            "node",
-            "express js",
-            "php",
-            "graphql",
-            "noSQL"
+            "Angular",
+            "VueJS",
+            "HTML5, CSS3, JavaScript",
+            "React Native",
+            "Spring Boot",
+            "Java Enterprise",
+            "Tomcat",
+            "Dockers",
+            "Git, GitHub",
+            "NodeJS",
+            "ExpressJS",
+            "GraphQL",
+            "MongoDB",
+            "PHP, Laravel",
+            "NoSQL",
+            "PL/SQL"
         ]
     }
 ]
