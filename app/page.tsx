@@ -4,8 +4,8 @@ import Gamedev from "../components/gamedev";
 
 export default function Home() {
   return (
-    <main className="flex justify-center flex-col gap-y-4 bg-bg p-10">
-      <div id="header">
+    <main className="flex items-center justify-center flex-col gap-y-4 bg-bg p-10">
+      <div className="flex-0.5" id="header">
         <p className="text-pink font-light text-4xl">Biel Serrano</p>
         <p className="text-lavender italic font-light text-lg">Backend developer based in Barcelona (ES)</p>
         <p className="text-normal text-xl">

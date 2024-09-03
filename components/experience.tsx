@@ -21,7 +21,7 @@ export default async function Experience() {
     });
     
     return (
-        <div id="experience">
+        <div className="flex-1 w-2/3" id="experience">
             <h1 className="text-orange text-xl">Experience</h1>
             <div className='flex flex-col'>
                 {data}

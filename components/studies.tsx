@@ -20,8 +20,8 @@ export default async function Studies() {
     });
     
     return (
-        <div id="studies">
-            <h1 className="text-orange text-xl">Studies</h1>
+        <div className="flex-1 w-2/3" id="studies">
+            <h1 className="text-orange text-xl py-5">Studies</h1>
             <div className='flex flex-col'>
                 {data}
             </div>

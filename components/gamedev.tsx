@@ -21,11 +21,11 @@ export default async function Gamedev() {
     });
 
     return (
-      <div id="gamedev">
-        <h1 className="text-orange text-xl py-5">Game development projects</h1>
-        <div className='flex flex-col'>
-            {data}
+        <div className="flex-1 w-2/3" id="gamedev">
+            <h1 className="text-orange text-xl py-5">Game development projects</h1>
+            <div className='flex flex-col'>
+                {data}
+            </div>
         </div>
-    </div>
     );
 }
