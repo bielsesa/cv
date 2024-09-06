@@ -5,7 +5,7 @@
         "company": "ERNI",
         "from": "Mar 2023",
         "to": "present",
-        "description": "Product care and improvement of medical software with one of the largest international medtech companies.",
+        "description": "Product care and improvement of pharmaceutical software for one of the largest international MedTech companies.",
         "highlights": [
             "My first experience on the MedTech sector, it had been my dream to work on a project like this for a long time.",
             "Agile methodologies with a big team."
@@ -14,14 +14,16 @@
             "C#",
             "RabbitMQ",
             "WPF",
-            ".NET Framework 4.8"
+            ".NET Framework 4.8",
+            "HL7 medical standard",
+            "Git (Azure)"
         ]
     },
     {
         "key": 1,
         "role": ".NET Backend and VB6 developer",
         "company": "DIR Informatica BCN",
-        "from": "Mar 2021",
+        "from": "Feb 2021",
         "to": "Mar 2023",
         "description": "Product care and migration of one of the leading ERPs specialized for the bakery sector in Spain.",
         "highlights": [
@@ -34,7 +36,8 @@
             ".NET Framework 4.8",
             ".NET Core 6",
             "SQL Server",
-            "VB6"
+            "VB6",
+            "Git (GitLab)"
         ]
     },
     {
