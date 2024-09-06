@@ -1,10 +1,10 @@
 [
     {
-        "title": "High certificate degree on multi-platform app development",
+        "title": "Certificate of Higher Education on Multi-platform Application Development",
         "center": "Escola Jesuites el Clot",
         "from": "Sep-2017",
         "to": "Jun-2020",
-        "description": "Development of applications (desktop, mobile). Specialization on Big Data and Internet of Things.",
+        "description": "Development of Multi-platform Applications (desktop, mobile). Specialization on Big Data and Internet of Things.",
         "technologies": [
             "Java 8 and 11",
             "Android",
@@ -17,7 +17,7 @@
             "Hadoop",
             "Spark",
             "MySQL",
-            "Arduino, Raspberry Pi",
+            "Arduino, Raspberry Pi and ESP-32",
             "MQTT",
             "Node-RED",
             "Grafana",
@@ -28,28 +28,29 @@
         ]
     },
     {
-        "title": "High certificate degree on web app development",
+        "title": "Certificate of Higher Education on Web Application Development",
         "center": "Escola Jesuites el Clot",
         "from": "Sep-2017",
         "to": "Jun-2020",
-        "description": "Development of web applications (frontend and backend) ",
+        "description": "Development of Web Applications, such as REST APIs and a Manga content application on react native.",
         "technologies": [
+            "REST and SOAP APIs",
             "Angular",
             "VueJS",
-            "HTML5, CSS3, JavaScript",
             "React Native",
             "Spring Boot",
             "Java Enterprise",
             "Tomcat",
-            "Dockers",
+            "Docker",
             "Git, GitHub",
             "NodeJS",
             "ExpressJS",
             "GraphQL",
             "MongoDB",
             "PHP, Laravel",
-            "NoSQL",
-            "PL/SQL"
+            "NoSQL (MongoDB)",
+            "PL/SQL",
+            "HTML5, CSS3, JavaScript"
         ]
     }
 ]

@@ -1,6 +1,5 @@
 import Image from "next/image";
 import { Button } from "@/components/ui/button"
-import { buttonVariants } from "@/components/ui/button"
 
 export default function GamedevItem(data: GamedevData) { 
     const highlightsListElements: any[] = data.highlights.map((item, index) => {
