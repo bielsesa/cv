@@ -3,6 +3,7 @@ import Experience from "@/components/experience";
 import Gamedev from "@/components/gamedev";
 import Header from "@/components/header";
 import { Button } from "@/components/ui/button"
+import Footer from "@/components/footer";
 
 export default function Home() {
   return (
@@ -12,6 +13,7 @@ export default function Home() {
       <Experience />
       <Gamedev />
       <Studies />
+      <Footer />
     </main>
   );
 }
