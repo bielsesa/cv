@@ -8,7 +8,8 @@
         "description": "Product care and improvement of pharmaceutical software for one of the largest international MedTech companies.",
         "highlights": [
             "My first experience on the MedTech sector, it had been my dream to work on a project like this for a long time.",
-            "Agile methodologies with a big team."
+            "I'm able to participate in some ways on the design of new features, conduct code reviews and learn software architecture hand on hand.",
+            "I also sometimes conduct demos for the product owners. We follow the Agile methodologies as well as SCRUM."
         ],
         "technologies": [
             "C#",
@@ -27,7 +28,7 @@
         "to": "Mar 2023",
         "description": "Product care and migration of one of the leading ERPs specialized for the bakery sector in Spain.",
         "highlights": [
-            "My first experience programming on a big project.",
+            "My first experience programming on a bigger project.",
             "Participated actively in the design and improvement of the product, which let me learn a lot about analysing client needs."
         ],
         "technologies": [
@@ -37,7 +38,8 @@
             ".NET Core 6",
             "SQL Server",
             "VB6",
-            "Git (GitLab)"
+            "Git (GitLab)",
+            "Swagger"
         ]
     },
     {
