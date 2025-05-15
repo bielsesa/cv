@@ -8,7 +8,7 @@ import Footer from "@/components/footer";
 export default function Home() {
   return (
     <main className="flex items-center justify-center flex-col gap-y-4 bg-bg p-10">
-      <a href="/biel-serrano-CV-2024.pdf" download="biel-serrano-CV-2024.pdf"><Button className="fixed right-5 top-5 py-8">Download my CV <br /> as PDF</Button></a>
+      <a href="/biel-serrano-CV-2025.pdf" download="biel-serrano-CV-2025.pdf"><Button className="fixed right-5 top-5 py-8">Download my CV <br /> as PDF</Button></a>
       <Header />
       <Experience />
       <Gamedev />
