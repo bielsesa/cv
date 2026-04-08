@@ -1,10 +1,31 @@
 [
     {
         "key": 0,
-        "role": ".NET Backend and WPF developer",
-        "company": "ERNI",
-        "from": "Mar 2023",
+        "role": "SW Engineer",
+        "company": "Capitole Consulting, S.L.",
+        "from": "Feb 2026",
         "to": "present",
+        "description": "Mainly .NET Framework and WPF application development for automation devices. Industrial sector.",
+        "highlights": [
+            "On this project I'm able to acquire hand on hand experience with industrial automation devices.",
+            "I'm participating on the design of new features, conduct code reviews and participate actively on refinement meetings. This is allowing me to challenge myself.",
+            "We follow the Agile methodologies as well as SCRUM."
+        ],
+        "technologies": [
+            "C#",
+            "WPF",
+            ".NET Framework 4.6 - 4.8",
+            "Automation devices",
+            "Azure DevOps",
+            "GitHub Copilot"
+        ]
+    },
+    {
+        "key": 1,
+        "role": ".NET Backend and WPF developer",
+        "company": "ERNI Consulting, S.L.U.",
+        "from": "Mar 2023",
+        "to": "Feb 2026",
         "description": "Product care and improvement of pharmaceutical software for one of the largest international MedTech companies.",
         "highlights": [
             "My first experience on the MedTech sector, it had been my dream to work on a project like this for a long time.",
@@ -17,11 +38,12 @@
             "WPF",
             ".NET Framework 4.8",
             "HL7 medical standard",
-            "Git (Azure)"
+            "Azure DevOps",
+            "SOAP APIs"
         ]
     },
     {
-        "key": 1,
+        "key": 2,
         "role": ".NET Backend and VB6 developer",
         "company": "DIR Informatica BCN",
         "from": "Feb 2021",
@@ -39,11 +61,12 @@
             "SQL Server",
             "VB6",
             "Git (GitLab)",
+            "REST APIs",
             "Swagger"
         ]
     },
     {
-        "key": 1,
+        "key": 3,
         "role": "Software Developer",
         "company": "STEP LOGISTICA S.L.",
         "from": "Feb 2019",
